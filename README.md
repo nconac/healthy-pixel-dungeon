@@ -1,13 +1,16 @@
 # Healthy Pixel Dungeon
 
 This is a fork of Shattered Pixel Dungeon, that I made for personal use.
-The only change I aim to implement is to make health potion discovered at start for all heroes, not just the warrior.
-Instead, the warrior will start with haste potions knwon.
+
+The only change I aim to implement is to make health potion identified at start for all heroes, not just the warrior.
+Instead, the warrior will start with haste potions identified.
+
 The reason behind this change is that I find health potions to precious to waste while not discovered, and the current state mean I limit myself to playing warrior only.
 I discourage everyone from using thi project, as I know fuck all about java, and I'm not sure when it'll be playable.
+
 All credit of course go to 00-Evan, for the Shattered Dungeon Pixel source code, and Watabou, for the original Pixel Dungeon source code.
 
-**Below is the original Shattered Pixel Dungeon description, all links still point to the Shattered PD official pages**
+### Below is the original Shattered Pixel Dungeon description, all links still point to the Shattered PD official pages
 
 [Shattered Pixel Dungeon](https://shatteredpixel.com/shatteredpd/) is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the [source code of Pixel Dungeon](https://github.com/00-Evan/pixel-dungeon-gradle), by [Watabou](https://www.watabou.ru).
 
