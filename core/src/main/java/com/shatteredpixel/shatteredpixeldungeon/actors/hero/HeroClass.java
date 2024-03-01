@@ -167,6 +167,7 @@ public enum HeroClass {
 		}
 
 		new PotionOfHealing().identify();
+		new potionOfHaste().identify();
 		new ScrollOfRage().identify();
 	}
 
@@ -182,6 +183,7 @@ public enum HeroClass {
 
 		new ScrollOfUpgrade().identify();
 		new PotionOfLiquidFlame().identify();
+		new PotionOfHealing().identify();
 	}
 
 	private static void initRogue( Hero hero ) {
@@ -199,6 +201,7 @@ public enum HeroClass {
 
 		new ScrollOfMagicMapping().identify();
 		new PotionOfInvisibility().identify();
+		new PotionOfHealing().identify();
 	}
 
 	private static void initHuntress( Hero hero ) {
@@ -210,6 +213,7 @@ public enum HeroClass {
 		Dungeon.quickslot.setSlot(0, bow);
 
 		new PotionOfMindVision().identify();
+		new PotionOfHealing().identify();
 		new ScrollOfLullaby().identify();
 	}
 
@@ -225,6 +229,7 @@ public enum HeroClass {
 		Dungeon.quickslot.setSlot(1, spikes);
 
 		new PotionOfStrength().identify();
+		new PotionOfHealing().identify();
 		new ScrollOfMirrorImage().identify();
 	}
 
